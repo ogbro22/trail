@@ -1,0 +1,15 @@
+
+> sonora@0.1.0 dev
+> next dev
+
+▲ Next.js 16.4.0 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.0.2:3000
+✓ Ready in 966ms
+✓ Running next.config.ts took 85ms
+- Cache Components enabled
+- Partial Prefetching enabled
+
+○ Compiling / ...
+ HEAD / 200 in 586ms (next.js: 291ms, application-code: 294ms)
+ GET / 200 in 129ms (next.js: 5ms, application-code: 124ms)
